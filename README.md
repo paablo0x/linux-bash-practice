@@ -1,7 +1,6 @@
 # linux-bash-practice
 Hands-on Linux and Bash practice covering core command-line usage, file systems, permissions, and problem-solving in lab environments.
 
-# Linux & Bash Practice
 # Linux Bash Practice
 
 This is a small repo I'm using to practice Linux and Bash commands.
